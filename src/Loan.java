@@ -1,3 +1,12 @@
+/*
+ * This is a code that modify the Loan class in Listing 10.2
+ * It will throw an exception when the loan amount,interest rate and number of year is less or equal to zero
+ * the method modified are the setter and constructor with parameter
+ * setter would throw an exception when the loan amount,interest rate and number of year is less or equal to zero
+ * else it would change the amount 
+ * the constructor is changed to using the setter
+ */
+
 public class Loan 
 {
 	private double annualInterestRate;
