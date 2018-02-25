@@ -1,3 +1,9 @@
+/*
+ * This is a code that prompt user to enter the sum of two number
+ * if the sum is wrong or the input is not a number
+ * the program will keep asking for a number
+ */
+
 import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
 import java.util.InputMismatchException;
